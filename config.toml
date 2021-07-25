@@ -1,4 +1,4 @@
-baseURL = "https://www.haibtext.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Essay Writing Service For Sociology Students"
 theme = "dtox-hugo"
