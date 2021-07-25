@@ -1,0 +1,120 @@
+baseURL = "https://examplesite.com/"
+languageCode = "en-us"
+title = "Essay Writing Service For Sociology Students"
+theme = "dtox-hugo"
+# post excerpt
+summaryLength = "15"
+# post pagination
+paginate = "3"
+# disqus short name
+disqusShortname = "Haibtext" # get your shortname form here : https://disqus.com
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/Venobox/venobox.css"
+  [[params.plugins.css]]
+  URL = "plugins/aos/aos.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/aos/aos.js"
+  [[params.plugins.js]]
+  URL = "plugins/Venobox/venobox.min.js"
+
+
+# Menu
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 4
+  
+  [[menu.main]]
+  name = "Pricing"
+  URL = "#pricing"
+  weight = 3
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+
+
+[params]
+logo = "images/logo.svg"
+home = "Home"
+# Meta data
+description = "Essay Writing Services for Sociology Postgraduate Students"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "G-2Q8M3PR8CE"
+# Copyright
+Copyright = "Designed by [Klymb Digital](https://klymbdigital.com). Copyright © Haibtext, all rights reserved."
+
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  image = "images/logo.svg"
+
+  # Navigation button
+  [params.navBtn]
+  enable = true
+  btnText = "Get Started"
+  URL = "contact"
+
+  # Banner
+  [params.banner]
+  title = "Dumb Those Essay writing Services for the <span>Real Deal</span>"
+  content = "We help postgraduate sociology students uncover gaps in the literature and position their research in the academic debate through a “systematized” literature review"
+  image = "images/hero-area/undraw_education_f8ru 1.svg"
+  btnText = "Get Started"
+  URL = "contact"
+    [params.banner.bgShape]
+    enable = true
+
+
+  # footer
+  [params.footer]
+  
+    [[params.footer.socialIcon]]
+    icon = "ti-facebook"
+    color = "black"
+    URL = "#"
+
+    [[params.footer.socialIcon]]
+    icon = "ti-twitter-alt"
+    color = "black"
+    URL = "#"
+
+    [[params.footer.socialIcon]]
+    icon = "ti-linkedin"
+    color = "black"
+    URL = "#"
+
+    [[params.footer.socialIcon]]
+    icon = "ti-github"
+    color = "black"
+    URL = "#"

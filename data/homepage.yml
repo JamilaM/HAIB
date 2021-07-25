@@ -1,0 +1,159 @@
+# Table_list 
+table_list:
+  enable : true
+  title : "Systematized Literature Review Writing Service (SLRWS) <span>for Sociology Postgraduate Students</span>"
+  description : "A simpler methodology for uncovering gaps in academic research through critical literature review writing"
+  tableItem:
+    # table item
+    - tdata1 : "Jack of all trades"
+      tdata2 : "&#10004;"
+      tdata3 : "&#10008;"
+      
+    # table item
+    - tdata1 : "Long-term contracts"
+      tdata2 : "&#10004;"
+      tdata3 : "&#10008;"
+      
+    # table item
+    - tdata1 : "Expert in specific Field"
+      tdata2 : "&#10008;"
+      tdata3 : "&#10004;"
+      
+    # table item
+    - tdata1 : "Express delivery"
+      tdata2 : "&#10008;"
+      tdata3 : "&#10004;"
+    
+   # table item
+    - tdata1 : "Transparent pricing"
+      tdata2 : "&#10008;"
+      tdata3 : "&#10004;"
+
+
+# Marketing section
+marketing:
+  enable : true
+  image: "images/marketing/undraw_Notebook_re_id0r 1.svg"
+  title : "Created by <span>Academics</span>, Not by Digital Marketers"
+  content : "Haibtext was Created by academics in the field of sociology…not by digital marketers. We have an eye for originality and a vision for contributing new knowledge.<br> <br>At Haibtext, we batch academic writing tasks in short “sprints”. With the combination of our proprietary technology and the careful attention of literature review writers, we’re able to complete 4-weeks work of essay writing project in 1 week."
+
+
+# Features 
+feature:
+  enable : true
+  title : "What Makes us <span>Different?</span>"
+  description : "We are not like the other essay writing service provider who lie about their process and timeline so they can lock in a long term contract and collect checks, even when they're not doing any work"
+  featureItem:
+    # feature item
+    - title : "Our work is straight to the point"
+      icon : "ti-time"
+      content : "We don’t take months writing phantom literature review. We take only one week to deliver topnotch quality"
+      
+    # feature item
+    - title : "A simple 2 step process"
+      icon : "ti-reload"
+      content : "The first step is critical reading, which is we enjoy doing, then critical writing, which we do hassle-free"
+      
+    # feature item
+    - title : "Our work is niched"
+      icon : "ti-lock"
+      content : "We don’t claim we can write every piece of academic writing in every field. We focus on what we know best"
+      
+    # feature item
+    - title : "You only pay us for the work we do"
+      icon : "ti-thumb-up"
+      content : "We are very transparent about our pricing. You only pay for the work we deliver. No lies, no time wastage"
+# services
+service:
+  enable : false
+  title : "Powerful Layout From Top To Bottom"
+  content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+  serviceList:
+    # service list
+    - title : "Responsive on any device"
+      icon : "ti-layout-tab-window"
+      
+    # service list
+    - title : "Very easy to customize"
+      icon : "ti-layout-placeholder"
+      
+    # service list
+    - title : "Effective support"
+      icon : "ti-support"
+
+  # service image
+  image: "images/service/service.png"
+  # background image
+  bgImage : "images/backgrounds/service-bg.svg"
+
+# testimonial
+testimonial:
+  enable : true
+  title : "What <span>Clients</span> Say about Us?"
+  
+  member:
+      
+    # testimonial member
+    - name : "Spike Wyatt"
+      image : "images/clients/client-1.png"
+      content : "As usual, Haibtext provided excellent work; they are always responsive and competent. It's such a pleasure to work with experts who have the honesty to ask questions, who forewarns of issues and who produces consistently good work with a smile"
+      
+    # testimonial member
+    - name : "Sathish Kumar"
+      image : "images/clients/client-3.png"
+      content : "These guys are brilliant literature review writers. They help me a lot in finding gaps in my chosen area of studies. They are also thorough and excellent at critical writing, which is perfect for any literature review"
+    
+    # testimonial member
+    - name : "Rafiq Tahir"
+      image : "images/clients/client-2.png"
+      content : "Suhaib and his team are exceptional, reliable academic writers. Well-done, guys"
+
+      
+# pricing
+pricing:
+  enable  : true
+  title : "Our <span>Pricing</span>"
+  description : "Systematized Literature Review Services Bundled in Simple, Fair-Price Packages"
+  table:
+    # pricing table
+    - title : "Mini Package"
+      value : "120"
+      content : "Suitable for Class Assignments"
+      icon : "ti-control-record"
+      item1 : "1000-word Literature Review (1 piece)"
+      item2 : "Moving from Descriptive to Analytical"
+      item3 : "No Patchwork; No Plagiarism"
+      item4 : "Clear Citations and Referencing"
+      item5 : "1-2 Revisions" 
+      btnText : "Get Started"
+      URL : "contact"
+      
+    # pricing table
+    - title : "Micro Package"
+      value : "240"
+      content : "Ideal for Research Proposals"
+      icon : "ti-control-record"
+      item1 : "2000-word literature review (1 piece)"
+      item2 : "Exposing what hasn’t been said"
+      item3 : "Moving from Descriptive to Critical"  
+      item4 : "No patchwork; No plagiarism"
+      item5 : "Clear citations and referencing" 
+      item6 : "Unlimited Revisions"
+      btnText : "Get Started"
+      URL : "contact"
+      
+    # pricing table
+    - title : "Mega Package"
+      value : "360"
+      content : "For Thesis and Journal Publication "
+      icon : "ti-control-record"
+      item1: "3000-above Literature Review (1 piece)"
+      item2: "Exposing what hasn’t been said"
+      item3: "Moving from Descriptive to Critical"
+      item4: "Include Tables and Figures"  
+      item5: "No patchwork; No plagiarism"
+      item6: "Clear citations and referencing" 
+      item7: "Unlimited Revisions"
+      btnText : "Get Started"
+      URL : "contact"
+

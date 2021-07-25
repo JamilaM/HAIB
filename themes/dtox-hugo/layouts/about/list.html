@@ -1,0 +1,116 @@
+{{ define "main" }}
+
+  <!-- about us -->
+  <section class="section-lg about pb-0 mt-lg-5">
+    <div class="container mt-lg-5">
+      <div class="row">
+        {{ with .Site.Data.about.about }}
+        <div class="col-lg-12">
+          <h1 class="section-title">{{ .title | safeHTML }}</h1>
+        </div>
+        <div class="col-lg-12 mb-100">
+          <p>{{ .content | safeHTML }}</p>
+        </div>
+        {{ end }}
+    
+      </div>
+    </div>
+    <!-- background shapes -->
+    <svg class="about-bg-1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="81px" height="81px">
+    <defs>
+    <filter filterUnits="userSpaceOnUse" id="Filter_0" x="0px" y="0px" width="81px" height="81px"  >
+        <feOffset in="SourceAlpha" dx="0" dy="17" />
+        <feGaussianBlur result="blurOut" stdDeviation="5.657" />
+        <feFlood flood-color="rgb(255, 138, 0)" result="floodOut" />
+        <feComposite operator="atop" in="floodOut" in2="blurOut" />
+        <feComponentTransfer><feFuncA type="linear" slope="0.27"/></feComponentTransfer>
+        <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    </defs>
+    <g filter="url(#Filter_0)">
+    <path fill-rule="evenodd"  fill="rgb(255, 161, 51)"
+    d="M39.000,14.000 C43.971,14.000 48.000,18.029 48.000,23.000 C48.000,27.970 43.971,32.000 39.000,32.000 C34.029,32.000 30.000,27.970 30.000,23.000 C30.000,18.029 34.029,14.000 39.000,14.000 Z"/>
+    </g>
+    </svg>
+    
+    <svg class="about-bg-4"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="138px" height="138px">
+    <defs>
+    <filter filterUnits="userSpaceOnUse" id="Filter_0" x="0px" y="0px" width="138px" height="138px"  >
+        <feOffset in="SourceAlpha" dx="0" dy="23" />
+        <feGaussianBlur result="blurOut" stdDeviation="6.557" />
+        <feFlood flood-color="rgb(255, 138, 0)" result="floodOut" />
+        <feComposite operator="atop" in="floodOut" in2="blurOut" />
+        <feComponentTransfer><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+        <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="PSgrad_0" x1="98.163%" x2="0%" y1="0%" y2="19.081%">
+      <stop offset="0%" stop-color="rgb(255, 234, 130)" stop-opacity="1" />
+        <stop offset="100%" stop-color="rgb(255, 161, 51)" stop-opacity="1" />
+    </linearGradient>
+
+    </defs>
+    <g filter="url(#Filter_0)">
+    <path fill-rule="evenodd"  fill="rgb(246, 255, 163)"
+    d="M67.500,19.000 C82.136,19.000 94.000,30.864 94.000,45.500 C94.000,60.135 82.136,72.000 67.500,72.000 C52.864,72.000 41.000,60.135 41.000,45.500 C41.000,30.864 52.864,19.000 67.500,19.000 Z"/>
+    </g>
+    <path fill="url(#PSgrad_0)"
+    d="M67.500,19.000 C82.136,19.000 94.000,30.864 94.000,45.500 C94.000,60.135 82.136,72.000 67.500,72.000 C52.864,72.000 41.000,60.135 41.000,45.500 C41.000,30.864 52.864,19.000 67.500,19.000 Z"/>
+    </svg>
+    
+    </section>
+  <!-- /about us -->
+
+  <!-- /Pricing -->
+
+  <section class="section-lg py-0 pricing" id="pricing">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto text-center">
+          {{ with .Site.Data.homepage.pricing }}
+          <h2 class="section-title">{{ .title | safeHTML }}</h2>
+          <p class="mb-50">{{ .description | safeHTML }}</p>
+            {{ end }}
+        </div>
+        <div class="col-lg-12">
+          <div class="row justify-content-center">
+            {{ range .Site.Data.homepage.pricing.table }}
+            <!-- pricing table -->
+            <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
+              <div class="rounded text-center pricing-table table-3">
+                <h3>{{ .title }}</h3>
+                <h1><span>$</span>{{ .value }}</h1>
+                <p>{{ .content | markdownify }}</p>
+                <div class="text-center list">
+                  <small class="mb-0">{{ .item0 | markdownify }}</small>
+                  <small class="mb-0"><i class="{{ .icon }} mr-2"></i><span>{{ .item1 | markdownify }}</span></small><br>
+                  <small class="mb-0"><i class="{{ .icon }} mr-2"></i><span>{{ .item2 | markdownify }}</span></small><br>
+                  <small class="mb-0"><i class="{{ .icon }} mr-2"></i><span>{{ .item3 | markdownify }}</span></small><br>
+                  <small class="mb-0"><i class="{{ .icon }} mr-2"></i><span>{{ .item4 | markdownify }}</span></small><br>
+                  <small class="mb-0"><i class="{{ .icon }} mr-2"></i><span>{{ .item5 | markdownify }}</span></small><br>
+                  <small class="mb-0">{{ if .item6 }}<i class="{{ .icon }} mr-2"></i>{{ end }}<span>{{ .item6 | markdownify }}</span></small><br>
+                  <small>{{ if .item7 }}<i class="{{ .icon }} mr-2"></i>{{ end }}<span>{{ .item7 | markdownify }}</span></small><br>
+                </div>
+                <a href="{{ .URL }}" class="btn pricing-btn px-2">{{ .btnText }}</a>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+</section>
+{{ end }}

@@ -1,0 +1,59 @@
+# about us
+about:
+  title : "About <span>Us</span>"
+  content : "Your essay writing service provider lied to you. They told you they are professional academic writers; they told you they can write <strong>every piece of academic writing in every field.</strong> They also told you that writing literature review takes months—so they can lock in a long term contract and collect checks, even when they're not doing any work.<br><br>
+The truth is, most of the work done to your academic writing—whether it’s essay writing, research paper writing, or dissertation, is a 2-step process: Critical reading, which is a hobby for us here at HAIBTEXT, and critical writing, which we do hassle-free. And every professional academic writer can write a complete academic article with ease after they have finished the literature review process.<br><br>
+You shouldn’t have to pay for anything beyond that.<br><br>
+Here at HAIBTEXT, we batch academic writing tasks in short <strong>sprints</strong> that combines our proprietary technology with the careful attention of literature review writers. We’re able to complete 4-weeks work of essay writing project in 1 week.<br><br>
+Stop paying for essay writing work that you don't need."
+
+
+# pricing
+pricing:
+  enable  : true
+  title : "Our <span>Pricing</span>"
+  description : "Systematized Literature Review Services Bundled in Simple, Fair-Price Packages"
+  table:
+    # pricing table
+    - title : "Mini Package"
+      value : "120"
+      content : "Suitable for Class Assignments"
+      icon : "ti-control-record"
+      item1 : "1000-word Literature Review (1 piece)"
+      item2 : "Moving from Descriptive to Analytical"
+      item3 : "No Patchwork; No Plagiarism"
+      item4 : "Clear Citations and Referencing"
+      item5 : "1-2 Revisions" 
+      btnText : "Get Started"
+      URL : "contact"
+      
+    # pricing table
+    - title : "Micro Package"
+      value : "240"
+      content : "Ideal for Research Proposals"
+      icon : "ti-control-record"
+      item1 : "2000-word literature review (1 piece)"
+      item2 : "Exposing what hasn’t been said"
+      item3 : "Moving from Descriptive to Critical"  
+      item4 : "No patchwork; No plagiarism"
+      item5 : "Clear citations and referencing" 
+      item6 : "Unlimited Revisions"
+      btnText : "Get Started"
+      URL : "contact"
+      
+    # pricing table
+    - title : "Mega Package"
+      value : "360"
+      content : "For Thesis and Journal Publication "
+      icon : "ti-control-record"
+      item1: "3000-above Literature Review (1 piece)"
+      item2: "Exposing what hasn’t been said"
+      item3: "Moving from Descriptive to Critical"
+      item4: "Include Tables and Figures"  
+      item5: "No patchwork; No plagiarism"
+      item6: "Clear citations and referencing" 
+      item7: "Unlimited Revisions"
+      btnText : "Get Started"
+      URL : "contact"
+
+
