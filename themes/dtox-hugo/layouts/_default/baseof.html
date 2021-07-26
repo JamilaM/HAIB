@@ -6,5 +6,8 @@
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
+        {{ if and (eq .Site.Params.env "PUBLIC") (ne .Site.GoogleAnalytics "") }}
+           {{ template "_internal/google_analytics_async.html" . }}
+        {{ end }}
     </body>
 </html>

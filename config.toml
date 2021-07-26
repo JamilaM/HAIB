@@ -8,6 +8,8 @@ summaryLength = "15"
 paginate = "3"
 # disqus short name
 disqusShortname = "Haibtext" # get your shortname form here : https://disqus.com
+# Google Analytics 
+googleAnalitycsID = "G-6H221G1PLC"
 
 # Plugins
 [params.plugins]
@@ -72,6 +74,8 @@ author = "Themefisher"
 googleAnalitycsID = "G-6H221G1PLC"
 # Copyright
 Copyright = "Designed by [Klymb Digital](https://klymbdigital.com). Copyright © Haibtext, all rights reserved."
+# Environment
+env = "PUBLIC"
 
 
   # Preloader
