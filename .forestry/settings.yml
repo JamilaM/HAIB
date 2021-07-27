@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: document
-  path: content/blog
-  label: New Post
 - type: heading
   label: Blog
 - type: document
@@ -19,6 +16,7 @@ sections:
   match: "**/*"
   exclude: _index.md
   templates:
+  - post-template
   - post
 - type: heading
   label: Other Pages
