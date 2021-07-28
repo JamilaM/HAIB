@@ -18,11 +18,10 @@
             <button type="submit" value="send" class="btn btn-secondary btn-contact">SEND MESSAGE</button>
           </form>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-5 align-self-center">
           <p class="mb-5">{{ with .Site.Data.contact.contact.content }}{{ . }} {{end }}</p>
-          <a href="tel:{{ with .Site.Data.contact.contact.phone }}{{ . }} {{end }}" class="text-color h5 d-block">{{ with .Site.Data.contact.contact.phone }}{{ . }} {{end }}</a>
-          <a href="mailto:{{ with .Site.Data.contact.contact.email }}{{ . }} {{end }}" class="mb-5 text-color h5 d-block">{{ with .Site.Data.contact.contact.email }}{{ . }} {{end }}</a>
-          <p>{{ with .Site.Data.contact.contact.address }}{{ . | safeHTML }} {{end }}</p>
+          <a href="mailto:{{ with .Site.Data.contact.contact.email1 }}{{ . }} {{end }}" class="text-color h5 d-block">{{ with .Site.Data.contact.contact.email1 }}{{ . }} {{end }}</a>
+          <a href="mailto:{{ with .Site.Data.contact.contact.email2 }}{{ . }} {{end }}" class="mb-5 text-color h5 d-block">{{ with .Site.Data.contact.contact.email2 }}{{ . }} {{end }}</a>
         </div>
       </div>
     </div>

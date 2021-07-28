@@ -2,8 +2,8 @@
 contact:
   title : "Contact <span>Us</span>"
   formAction : "https://formspree.io/f/xgerljgj" # form works with formspree.io
-  content : "If you'll like to know more about our offers or want to us to handle your essay, 
-  fill in the form below to get in touch with us. We'll get back to you with the details. Alternatively, contact us via the email below"
-  phone : "+238081446356"
-  email : "info@haibtext.com"
-  address : "Kaduna state, Nigeria"
+  content : "If you'll like to know more about our offers or want us to handle your essay, 
+  fill in the form below to get in touch. We'll get back to you with the details. Alternatively, contact us via the emails below"
+  email1 : "info@haibtext.com"
+  email2 : "enquiries@haibtext.com"
+  

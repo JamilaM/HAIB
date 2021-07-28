@@ -35,14 +35,14 @@ marketing:
   enable : true
   image: "images/marketing/undraw_Notebook_re_id0r 1.svg"
   title : "Created by <span>Academics</span>, Not by Digital Marketers"
-  content : "Haibtext was Created by academics in the field of sociology…not by digital marketers. We have an eye for originality and a vision for contributing new knowledge.<br> <br>At Haibtext, we batch academic writing tasks in short “sprints”. With the combination of our proprietary technology and the careful attention of literature review writers, we’re able to complete 4-weeks work of essay writing project in 1 week."
+  content : "Haibtext was created by academics in the field of sociology…not by digital marketers. We have an eye for originality and a vision for contributing new knowledge.<br> <br>At Haibtext, we batch academic writing tasks in short “sprints”. With the combination of our proprietary technology and the careful attention of literature review writers, we’re able to complete 4-weeks work of essay writing project in 1 week."
 
 
 # Features 
 feature:
   enable : true
   title : "What Makes us <span>Different?</span>"
-  description : "We are not like the other essay writing service provider who lie about their process and timeline so they can lock in a long term contract and collect checks, even when they're not doing any work"
+  description : "We are not like other essay writing service provider who lie about their process and timeline so they can lock in a long term contract and collect checks, even when they're not doing any work"
   featureItem:
     # feature item
     - title : "Our work is straight to the point"
@@ -52,7 +52,7 @@ feature:
     # feature item
     - title : "A simple 2 step process"
       icon : "ti-reload"
-      content : "The first step is critical reading, which is we enjoy doing, then critical writing, which we do hassle-free"
+      content : "The first step is critical reading, which we enjoy doing, then critical writing, which we do hassle-free"
       
     # feature item
     - title : "Our work is niched"
@@ -63,28 +63,6 @@ feature:
     - title : "You only pay us for the work we do"
       icon : "ti-thumb-up"
       content : "We are very transparent about our pricing. You only pay for the work we deliver. No lies, no time wastage"
-# services
-service:
-  enable : false
-  title : "Powerful Layout From Top To Bottom"
-  content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
-  serviceList:
-    # service list
-    - title : "Responsive on any device"
-      icon : "ti-layout-tab-window"
-      
-    # service list
-    - title : "Very easy to customize"
-      icon : "ti-layout-placeholder"
-      
-    # service list
-    - title : "Effective support"
-      icon : "ti-support"
-
-  # service image
-  image: "images/service/service.png"
-  # background image
-  bgImage : "images/backgrounds/service-bg.svg"
 
 # testimonial
 testimonial:
