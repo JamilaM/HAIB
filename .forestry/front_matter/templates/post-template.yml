@@ -22,3 +22,5 @@ fields:
   config:
     required: false
   label: author
+pages:
+- content/blog/a-systematized-literature-review-writing-for-postgraduate-sociology-students-how-to-find-a-gap-and-position-your-argument-in-the-literature.md
