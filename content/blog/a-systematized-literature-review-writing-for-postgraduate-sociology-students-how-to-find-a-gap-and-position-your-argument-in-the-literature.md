@@ -22,13 +22,10 @@ Let’s jump right in…
 
 Most of the so-called literature review experts, even among the academics and research consultants, are amateur lit review writers. When reviewing literature for a specific sociology topic, they usually follow a four-step process:
 
-· Download 10 papers,
-
-· Copy-paste relevant paragraphs,
-
-· Paraphrase the copied paragraphs and
-
-· Steal the “limitations of the study” sections of the papers they’re reviewing.
+* Download 10 papers,
+* Copy-paste relevant paragraphs,
+* Paraphrase the copied paragraphs and
+* Steal the “limitations of the study” sections of the papers they’re reviewing.
 
 Well, here’s the cold, hard truth:
 
@@ -42,11 +39,9 @@ It’s not an easy task. It requires higher-order thinking—critical reading an
 
 You need to do these difficult tasks:
 
-· Download at least 30 quality research papers,
-
-· Read these papers with critical eyes, and
-
-· Critique the authors’ findings.
+* Download at least 30 quality research papers,
+* Read these papers with critical eyes, and
+* Critique the authors’ findings.
 
 When you follow this difficult model, you’ll go beyond simply describing what others have said; you’ll also get the opportunity to add your voice to the ongoing debate in the literature.
 
@@ -66,11 +61,9 @@ Start by providing general information about the work you’re reviewing to your
 
 [To analyze is to critique](https://www.monash.edu/rlo/research-writing-assignments/assignment-types/writing-an-essay/analysis-vs-description), to evaluate, to raise questions. For instance, when analyzing a particular study, you can ask and answer the following questions:
 
-· What’s the significance of the study?
-
-· What’s the problem of the study?
-
-· What’s my proposed solution?
+* What’s the significance of the study?
+* What’s the problem of the study?
+* What’s my proposed solution?
 
 You need to describe as well as analyze past studies to “establish the importance of your study,” according to John Creswell, “as well as provide a benchmark for comparing the results with other findings.”
 
