@@ -77,13 +77,15 @@ Your first order of business is to download 30 research papers on the subject.
 
 Next, you should then begin to read the papers one-by-one. Assuming you have opened one of the papers and it happens to be this one: (Figure 1: Anthony Giddens’ _The Consequences of Modernity”:_
 
-_Figure 1: Anthony Giddens’ Book, The Consequences of Modernity.”_
+![](https://res.cloudinary.com/du2q0byil/image/upload/v1633878624/unnamed_klus2z.png)_Figure 1: Anthony Giddens’ Book, The Consequences of Modernity.”_
 
 How do you review this work?
 
 **1. Describe.** Provide general information about the work to your readers. You do this by paraphrasing the most important points or findings in the papers you’re reviewing. So, if you find the following texts (Figure 2) worthy of reviewing, do not copy them word-for-word. That would be plagiarism.
 
-_Figure 2: Anthony Giddens’ Book, The Consequences of Modernity.” Pp 20-21._
+![](https://res.cloudinary.com/du2q0byil/image/upload/v1633878850/im2_nvbu33.png)
+
+_Figure 2: Anthony Giddens’ Book, "The Consequences of Modernity.” Pp 20-21._
 
 Instead, paraphrase it. Remember, in this step, you’re simply reporting or **_describing_** what the author says—in your own words.
 
@@ -125,10 +127,8 @@ As a postgraduate sociology scholar, you can’t survive in academia if you don�
 
 As you can see from this post, literature review writing is not only about reporting what others have documented; it’s about describing and analyzing what others have said. And that requires deep critical thinking skills—analysis, synthesis, and evaluation.
 
-· How much time do I need to master these skills? I WOULDN’T KNOW.
-
-· Is there a shortcut for mastering these important skills? THE ANSWER IS NO.
-
-· Can these skills be mastered with deep commitment over time? THE ANSWER IS YES.
+* How much time do I need to master these skills? I WOULDN’T KNOW.
+* Is there a shortcut for mastering these important skills? THE ANSWER IS NO.
+* Can these skills be mastered with deep commitment over time? THE ANSWER IS YES.
 
 My final words to you are these: To be a master, you have to start from somewhere. Just, as the legendary motivation expert Robin Sharma, says: “Cut your excuses in half and double the action you take.”
