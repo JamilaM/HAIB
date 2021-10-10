@@ -2,7 +2,6 @@
 author = "Suhaib Mohammed"
 date = ""
 description = ""
-draft = true
 image = ""
 title = "A “Systematized” Literature Review Writing for Postgraduate Sociology Students: How to Find a Gap and Position Your Argument in the Literature"
 type = "Blog Post"
