@@ -8,6 +8,8 @@ title = "A “Systematized” Literature Review Writing for Postgraduate Sociolo
 type = "Blog Post"
 
 +++
+![](https://res.cloudinary.com/du2q0byil/image/upload/v1633877323/books-1245690_1920_sgrzlg.jpg)
+
 Professors and journal editors expect that all social science postgraduate students have [mastered the art of literature review writing—](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)an important component of academic writing that assesses, appraises, and interrogates past studies.
 
 Sadly, not all post-grad students know how to research and write a comprehensive [lit review](https://writingcenter.uagc.edu/writing-literature-review) that exposes gaps and positions their argument.
