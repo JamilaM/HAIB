@@ -1,6 +1,6 @@
 +++
 author = "Suhaib Mohammed"
-date = ""
+date = 2021-10-10T07:00:00Z
 description = ""
 image = ""
 title = "A “Systematized” Literature Review Writing for Postgraduate Sociology Students: How to Find a Gap and Position Your Argument in the Literature"
@@ -76,7 +76,9 @@ Your first order of business is to download 30 research papers on the subject.
 
 Next, you should then begin to read the papers one-by-one. Assuming you have opened one of the papers and it happens to be this one: (Figure 1: Anthony Giddens’ _The Consequences of Modernity”:_
 
-![](https://res.cloudinary.com/du2q0byil/image/upload/v1633878624/unnamed_klus2z.png)_Figure 1: Anthony Giddens’ Book, The Consequences of Modernity.”_
+![](https://res.cloudinary.com/du2q0byil/image/upload/v1633878624/unnamed_klus2z.png)
+
+_Figure 1: Anthony Giddens’ Book, The Consequences of Modernity.”_
 
 How do you review this work?
 
