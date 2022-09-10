@@ -4,6 +4,6 @@ contact:
   formAction : "https://formspree.io/f/xgerljgj" # form works with formspree.io
   content : "If you'll like to know more about our offers or want us to handle your essay, 
   fill in the form below to get in touch. We'll get back to you with the details. Alternatively, contact us via the emails below"
-  email1 : "info@haibtext.com"
-  email2 : "enquiries@haibtext.com"
+  email1 : ""
+  email2 : ""
   
