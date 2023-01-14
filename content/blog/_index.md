@@ -5,6 +5,7 @@ subtitle: ''
 description: This is meta description
 
 ---
+[Download File](https://pixabay.com/photos/books-light-bulb-literature-2383396/ "Download File")
 
 If you have signed up for a [Master's or a Ph. D program](https://www.scribbr.com/graduate-school/masters-vs-phd/) at a University, then I have something to tell you: You’re a bold, courageous human being.
 
