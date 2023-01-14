@@ -8,6 +8,8 @@ title = "Of Literature Review and Academic Research: Why an Understanding of Lit
 type = ""
 
 +++
+[Download File](https://pixabay.com/photos/books-light-bulb-literature-2383396/ "Download File")
+
 If you have signed up for a [Master's or a Ph. D program](https://www.scribbr.com/graduate-school/masters-vs-phd/) at a University, then I have something to tell you: You’re a bold, courageous human being.
 
 Everyone knows that graduate studies are not for the faint-hearted, the lazy folks. Aside from lectures and class work, you’ll be called for a presentation and tests, not to talk of daunting essays, research papers, and thesis or dissertation writing at the tail end of your graduation.
