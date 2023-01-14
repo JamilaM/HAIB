@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "Suhaib Mohammed"
 date = ""
-description = ""
+description = "Blog Post "
 image = ""
 title = "Of Literature Review and Academic Research: Why an Understanding of Lit Review is Beneficial for Your Graduate Studies"
 type = "https://pixabay.com/photos/books-light-bulb-literature-2383396/"
