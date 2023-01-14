@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = ""
 title = "Of Literature Review and Academic Research: Why an Understanding of Lit Review is Beneficial for Your Graduate Studies"
 type = ""
