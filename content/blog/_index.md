@@ -3,6 +3,7 @@ title: 'Of Literature Review and Academic Research: Why an Understanding of Lit 
   is Beneficial for Your Graduate Studies'
 subtitle: Learn how to write literature review as a postgraduate student.
 description: This is meta description
+draft: true
 
 ---
 [Download File](https://pixabay.com/photos/books-light-bulb-literature-2383396/ "Download File")
